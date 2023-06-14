@@ -1,0 +1,6 @@
+<div>
+  <h1 class="text-3xl text-grey-700 font-bold my-3">Todo List</h1>
+  <div class=" ">
+    <app-todo *ngFor="let todo of todoService.todos" [todo]="todo"></app-todo>
+  </div>
+</div>
