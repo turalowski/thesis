@@ -1,3 +1,5 @@
+This project is licensed under the [MIT License](LICENSE).
+
 # Todo Application Repository
 
 This repository contains four different folders, each representing a separate implementation of a todo application using different frontend frameworks: React, Vue.js, Angular, and Svelte.
